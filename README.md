@@ -1,4 +1,4 @@
-<img src="canva banner.jpg">
+
 
 <h1 align="center">Hi 👋, I'm Jayash Gaikwad</h1>
 <h3 align="center">A passionate web developer</h3>
