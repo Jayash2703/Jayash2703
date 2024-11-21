@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **machine learning projech**
 
-- 🌱 I’m currently learning **DSA , MERN stack**
+- 🌱 I’m Master in **DSA , MERN stack**
 
 - 💬 Ask me about **Web Development**
 
